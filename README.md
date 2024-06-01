@@ -6,14 +6,6 @@
  
 Objetivo: desenvolver uma API com FastAPI, Python e Docker.
 
-# Tecnologias Utilizadas
-
-- pipenv - controle de versão
-- PostgreSQL - banco de dados com docker-compose
-- SQLAlchemy + Pydantic + Alembic - conexão com banco de dados
-- FastAPI - desenvolver a aplicação
-
-
 #  Solução do desafio
 
 A estrutura geral do repositório e os códigos foram feitos seguindo o passo-a-passo da instrutora. Em seguida, foram adicionadas as modificações do desafio.
